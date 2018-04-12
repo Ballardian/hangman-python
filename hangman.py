@@ -1,3 +1,5 @@
+""" Hangman in Python """
+
 import os
 import random
 import sys
